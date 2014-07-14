@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 public class HelloWorld {
 	public static void main(String[] args){
 		System.out.print("Hello " + args[0]);
 	}
 }
+=======
+Hello World
+>>>>>>> 2deccf478756493a29f1d28c4776172098629df7
